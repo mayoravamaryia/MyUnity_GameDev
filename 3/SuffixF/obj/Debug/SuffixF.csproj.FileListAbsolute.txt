@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\bin\Debug\SuffixF.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\bin\Debug\SuffixF.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\bin\Debug\SuffixF.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\obj\Debug\SuffixF.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\obj\Debug\SuffixF.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\obj\Debug\SuffixF.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\obj\Debug\SuffixF.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\SuffixF\obj\Debug\SuffixF.pdb

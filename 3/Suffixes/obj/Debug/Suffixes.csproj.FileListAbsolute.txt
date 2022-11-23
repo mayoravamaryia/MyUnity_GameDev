@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\bin\Debug\Suffixes.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\bin\Debug\Suffixes.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\bin\Debug\Suffixes.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\obj\Debug\Suffixes.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\obj\Debug\Suffixes.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\obj\Debug\Suffixes.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\obj\Debug\Suffixes.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\Suffixes\obj\Debug\Suffixes.pdb

@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\bin\Debug\MyProgram.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\bin\Debug\MyProgram.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\bin\Debug\MyProgram.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\obj\Debug\Concatenation.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\obj\Debug\Concatenation.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\obj\Debug\Concatenation.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\obj\Debug\MyProgram.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\Greeting\MyProgram\obj\Debug\MyProgram.pdb

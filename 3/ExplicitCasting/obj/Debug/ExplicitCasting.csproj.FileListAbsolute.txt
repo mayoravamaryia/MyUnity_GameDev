@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\bin\Debug\ExplicitCasting.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\bin\Debug\ExplicitCasting.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\obj\Debug\ExplicitCasting.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\ExplicitCasting\obj\Debug\ExplicitCasting.pdb

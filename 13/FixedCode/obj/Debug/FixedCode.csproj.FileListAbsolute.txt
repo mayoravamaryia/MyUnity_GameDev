@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\obj\Debug\FixedCode.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\obj\Debug\FixedCode.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\obj\Debug\FixedCode.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\bin\Debug\FixedCode.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\bin\Debug\FixedCode.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\bin\Debug\FixedCode.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\obj\Debug\FixedCode.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\13\FixedCode\obj\Debug\FixedCode.pdb

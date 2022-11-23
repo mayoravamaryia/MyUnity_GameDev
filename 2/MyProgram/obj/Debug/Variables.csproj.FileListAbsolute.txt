@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\bin\Debug\MyProgram.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\bin\Debug\MyProgram.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\bin\Debug\MyProgram.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\obj\Debug\MyProgram.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MyProgram\obj\Debug\MyProgram.pdb

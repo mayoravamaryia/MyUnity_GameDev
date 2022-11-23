@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\bin\Debug\Triangle.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\bin\Debug\Triangle.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\bin\Debug\Triangle.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\obj\Debug\Triangle.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\Triangle\obj\Debug\Triangle.pdb

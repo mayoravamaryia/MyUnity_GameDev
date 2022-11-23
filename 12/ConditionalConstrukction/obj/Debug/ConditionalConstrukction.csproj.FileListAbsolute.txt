@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\bin\Debug\ConditionalConstrukction.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\bin\Debug\ConditionalConstrukction.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\bin\Debug\ConditionalConstrukction.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\obj\Debug\ConditionalConstrukction.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\obj\Debug\ConditionalConstrukction.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\obj\Debug\ConditionalConstrukction.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\obj\Debug\ConditionalConstrukction.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\12\ConditionalConstrukction\obj\Debug\ConditionalConstrukction.pdb

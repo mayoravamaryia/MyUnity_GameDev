@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\bin\Debug\Salary.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\bin\Debug\Salary.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\bin\Debug\Salary.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\obj\Debug\Salary.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\obj\Debug\Salary.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\obj\Debug\Salary.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\5\MyProject\Salary\obj\Debug\Salary.pdb

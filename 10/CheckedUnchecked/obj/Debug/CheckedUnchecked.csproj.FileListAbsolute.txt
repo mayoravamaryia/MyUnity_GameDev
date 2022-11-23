@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\obj\Debug\CheckedUnchecked.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\10\CheckedUnchecked\obj\Debug\CheckedUnchecked.pdb

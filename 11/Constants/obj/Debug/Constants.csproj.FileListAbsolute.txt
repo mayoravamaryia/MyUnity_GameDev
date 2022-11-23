@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\bin\Debug\Constants.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\bin\Debug\Constants.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\bin\Debug\Constants.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\obj\Debug\Constants.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\obj\Debug\Constants.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\11\Constants\obj\Debug\Constants.pdb

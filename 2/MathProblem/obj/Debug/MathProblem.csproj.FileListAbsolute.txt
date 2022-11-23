@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\bin\Debug\MathProblem.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\bin\Debug\MathProblem.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\bin\Debug\MathProblem.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\obj\Debug\MathProblem.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\obj\Debug\MathProblem.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\obj\Debug\MathProblem.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\obj\Debug\MathProblem.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\2\MathProblem\obj\Debug\MathProblem.pdb

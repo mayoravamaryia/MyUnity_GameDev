@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\bin\Debug\BitwiseOperations.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\bin\Debug\BitwiseOperations.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\bin\Debug\BitwiseOperations.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\obj\Debug\BitwiseOperations.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\obj\Debug\BitwiseOperations.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\obj\Debug\BitwiseOperations.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\obj\Debug\BitwiseOperations.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\7\BitwiseOperations\obj\Debug\BitwiseOperations.pdb

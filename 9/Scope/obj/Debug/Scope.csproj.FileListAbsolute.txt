@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\bin\Debug\Scope.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\bin\Debug\Scope.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\bin\Debug\Scope.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\obj\Debug\Scope.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\obj\Debug\Scope.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\obj\Debug\Scope.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\9\Scope\obj\Debug\Scope.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseOperations", "BitwiseOperations.csproj", "{96D64808-C56B-4CB3-B327-D6EAA9A5595E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypted", "..\MyProgram\Encrypted.csproj", "{039561D9-3211-49BB-8A55-41129F4F6097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D64808-C56B-4CB3-B327-D6EAA9A5595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D64808-C56B-4CB3-B327-D6EAA9A5595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D64808-C56B-4CB3-B327-D6EAA9A5595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D64808-C56B-4CB3-B327-D6EAA9A5595E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039561D9-3211-49BB-8A55-41129F4F6097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039561D9-3211-49BB-8A55-41129F4F6097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039561D9-3211-49BB-8A55-41129F4F6097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039561D9-3211-49BB-8A55-41129F4F6097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF049AAC-824F-4773-9F67-5271A50C42B2}
+	EndGlobalSection
+EndGlobal

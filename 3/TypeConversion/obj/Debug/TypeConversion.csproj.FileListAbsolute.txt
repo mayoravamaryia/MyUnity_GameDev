@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\bin\Debug\TypeConversion.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\obj\Debug\TypeConversion.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\TypeConversion\obj\Debug\TypeConversion.pdb

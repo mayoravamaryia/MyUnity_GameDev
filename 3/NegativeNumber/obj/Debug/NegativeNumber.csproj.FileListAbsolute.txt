@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\bin\Debug\NegativeNumber.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\bin\Debug\NegativeNumber.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\bin\Debug\NegativeNumber.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\obj\Debug\NegativeNumber.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\obj\Debug\NegativeNumber.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\obj\Debug\NegativeNumber.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\obj\Debug\NegativeNumber.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\3\NegativeNumber\obj\Debug\NegativeNumber.pdb
