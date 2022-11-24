@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\bin\Debug\Branch_Operatord.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\bin\Debug\Branch_Operatord.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\bin\Debug\Branch_Operatord.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\obj\Debug\Branch_Operatord.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\obj\Debug\Branch_Operatord.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\obj\Debug\Branch_Operatord.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\obj\Debug\Branch_Operatord.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\14\Branch_Operatord\obj\Debug\Branch_Operatord.pdb
