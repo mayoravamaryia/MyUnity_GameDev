@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\bin\Debug\ConsoleCalculater.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\bin\Debug\ConsoleCalculater.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\bin\Debug\ConsoleCalculater.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\obj\Debug\ConsoleCalculator.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\obj\Debug\ConsoleCalculater.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculater\obj\Debug\ConsoleCalculater.pdb

@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\bin\Debug\ConsoleCalculatorForIfElse.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\bin\Debug\ConsoleCalculatorForIfElse.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\bin\Debug\ConsoleCalculatorForIfElse.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\obj\Debug\002_ConsoleCalculatorForIfElseToSwitch.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\obj\Debug\002_ConsoleCalculatorForIfElseToSwitch.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\obj\Debug\002_ConsoleCalculatorForIfElseToSwitch.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\obj\Debug\ConsoleCalculatorForIfElse.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\15\ConsoleCalculatorForIfElse\obj\Debug\ConsoleCalculatorForIfElse.pdb
