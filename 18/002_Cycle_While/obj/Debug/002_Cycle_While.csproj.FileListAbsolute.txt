@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\bin\Debug\002_Cycle_While.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\bin\Debug\002_Cycle_While.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\bin\Debug\002_Cycle_While.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\obj\Debug\002_Cycle_While.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\obj\Debug\002_Cycle_While.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\obj\Debug\002_Cycle_While.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\obj\Debug\002_Cycle_While.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\18\002_Cycle_While\obj\Debug\002_Cycle_While.pdb
