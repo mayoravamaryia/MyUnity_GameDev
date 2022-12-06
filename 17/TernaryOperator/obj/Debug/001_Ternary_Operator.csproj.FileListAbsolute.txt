@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\bin\Debug\TernaryOperator.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\bin\Debug\TernaryOperator.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\obj\Debug\001_Ternary_Operator.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\obj\Debug\001_Ternary_Operator.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\obj\Debug\001_Ternary_Operator.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\obj\Debug\TernaryOperator.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\17\TernaryOperator\obj\Debug\TernaryOperator.pdb
