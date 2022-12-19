@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\bin\Debug\001_Loop_For.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\bin\Debug\001_Loop_For.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\bin\Debug\001_Loop_For.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\obj\Debug\001_Loop_For.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\obj\Debug\001_Loop_For.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\obj\Debug\001_Loop_For.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\obj\Debug\001_Loop_For.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\21\Loop_For\001_Loop_For\obj\Debug\001_Loop_For.pdb
