@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\bin\Debug\001_Array_Operation.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\bin\Debug\001_Array_Operation.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\bin\Debug\001_Array_Operation.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\obj\Debug\001_Array_Operation.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\obj\Debug\001_Array_Operation.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\obj\Debug\001_Array_Operation.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\obj\Debug\001_Array_Operation.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\MyUnity_GameDev\20\Array_Operation\001_Array_Operation\obj\Debug\001_Array_Operation.pdb
